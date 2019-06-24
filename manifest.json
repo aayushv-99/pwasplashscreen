@@ -12,12 +12,12 @@
     {
       "src": "images/splash/fan.gif",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/gif"
     },
     {
       "src": "images/splash/fan.gif",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/gif"
     }
   ]
 }
